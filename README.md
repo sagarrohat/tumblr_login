@@ -1,3 +1,3 @@
-# Connecting to Websites Programmatically with Jsoup
+# Login to Tumblr Programmatically with Jsoup
 
-Examples to connect to Websites Programmatically for extracting and manipulating data
+Jsoup is a Java library to connect, extracting and manipulating data from websites.
